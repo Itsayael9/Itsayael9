@@ -1,11 +1,29 @@
-- 👋 Hi, I’m @Itsayael9
-- 👀 I’m interested in web development, full-stack development, and coding innovative projects.
-- 🌱 I’m currently learning JavaScript, C, MySQL, and more to enhance my full-stack development skills.
-- 💞️ I’m looking to collaborate on web development projects, especially with Flask, JavaScript, and PHP.
-- 📫 How to reach me: You can reach me via GitHub or Likedin  at www.linkedin.com/in/aya-elouahabi-b9a721328
-- ⚡ Fun fact: I’m passionate about building projects that solve real-world problems and sharing knowledge with others!
+# 👋 Hi, I'm Aya (@Itsayael9)  
+🚀 Full-Stack Developer | Passionate About Web & Software Development  
 
-<!---
-Itsayael9/Itsayael9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🌟 About Me  
+- 👀 **Interests:** Web development, full-stack development, and creating innovative tech solutions.  
+- 🌱 **Currently Learning:** JavaScript, C, MySQL, React.js, TypeScript, Node.js, and more!  
+- 💻 **Tech Stack:**  
+  ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+  ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+  ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
+  ![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+
+## 💞️ Collaboration & Projects  
+- Open to collaborating on web development projects, especially with Flask, JavaScript, PHP, and full-stack applications.  
+- Excited to work on **innovative and real-world problem-solving applications**.  
+
+## 📫 Let's Connect  
+- 🏆 **GitHub:** [@Itsayael9](https://github.com/Itsayael9)  
+- 💼 **LinkedIn:** [Aya El Ouahabi](https://www.linkedin.com/in/aya-elouahabi-b9a721328)  
+
+## ⚡ Fun Fact  
+I love **coding challenges**, solving problems with **clean and efficient code**, and sharing my knowledge with others! ✨  
+
+---
+💡 *"Keep learning, keep building!"* 🚀  
