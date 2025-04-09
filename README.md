@@ -3,7 +3,7 @@
 
 ## 🌟 About Me  
 - 👀 **Interests:** Web development, full-stack development, and creating innovative tech solutions.  
-- 🌱 **Currently Learning:** JavaScript, C, MySQL, React.js, TypeScript, Node.js, and more!  
+- 🌱 **Currently Learning:** JavaScript, C, MySQL, React.js, TypeScript, react.js, and more!  
 - 💻 **Tech Stack:**  
   ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
   ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
