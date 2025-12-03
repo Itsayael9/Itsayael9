@@ -1,75 +1,83 @@
-<h1 align="center">Hi there, I'm Aya 👋</h1>
+<h1 align="center">⚡ Aya El Ouahabi ⚡</h1>
+
+<!-- Animated Cyber Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3500&color=8A2BE2&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+in+Training;React.js+%7C+Laravel+%7C+DevOps+Explorer;NoSQL+%2B+UML+%2B+Clean+Architecture;Welcome+to+my+Cyber+GitHub+Profile+⚡" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aya-elouahabi-b9a721328">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Itsayael9">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-6e5494?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
 
 ---
 
-## 💻 Tech Stack  
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-%2300C4CC.svg?style=for-the-badge)  
-
-![DevOps](https://img.shields.io/badge/DevOps-%23007ACC.svg?style=for-the-badge&logo=azuredevops&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-%234E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white)
-![UML](https://img.shields.io/badge/UML%20Diagrams-%230082C9.svg?style=for-the-badge)
-
----
-
-## 👩‍💻 About Me
-- 🌍 Passionate **Full-Stack Developer in Training**  
-- 🚀 Currently working with **React.js, Laravel, PHP, JavaScript, Python, and MySQL**  
-- 📈 Learning **DevOps practices, CI/CD, SonarQube, and clean code**  
-- 🧠 Interested in **System Design, UML Diagrams & Scalable Architecture**  
-- 💡 Loves building **creative and innovative projects**  
-
----
-
-## 🚀 Skills & Technologies  
-
-### **Front-End**
-- HTML, CSS, Bootstrap  
-- JavaScript (ES6+)  
-- React.js  
-
-### **Back-End**
-- PHP & Laravel  
-- Python & Flask  
-
-### **Databases**
-- MySQL  
-- MongoDB (NoSQL)  
-
-### **Software Engineering Tools**
-- UML Diagrammes  
-- SonarQube (Code Quality & Analysis)  
-- DevOps Basics (Git, GitHub, CI/CD)  
-
----
-
-## 📊 GitHub Stats  
+# ⚙️ Tech Arsenal  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Itsayael9&show_icons=true&theme=dark&hide=issues,prs" width="400px">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsayael9&layout=compact&theme=dark" width="400px">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,php,laravel,python,flask,mysql,mongodb,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,vscode,postman&theme=dark" />
 </p>
 
 ---
 
-## 📫 Connect With Me  
-💬 Let's collaborate on **innovative and exciting tech projects!**  
-📩 Reach me on **[LinkedIn](https://www.linkedin.com/in/aya-elouahabi-b9a721328)**  
+# 👩‍💻 About Me  
+🚀 **Full-Stack Developer in Training**  
+💙 Passion for **React.js, Laravel, DevOps & Cyber Tech**  
+🧠 Improving in **MongoDB, NoSQL, UML, CI/CD & SonarQube**  
+⚡ I love turning ideas into **clean, modern, and creative apps**  
+🎨 UI/UX enthusiast with a futuristic vibe  
+
+---
+
+# 🔮 Cyber GitHub Stats (NEW WORKING VERSION)
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Itsayael9&show_icons=true&theme=tokyonight&hide=issues" />
+  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Itsayael9&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# ⚡ Activity Streak (Neon Edition)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Itsayael9&theme=tokyonight_duo&hide_border=true" />
+</p>
+
+---
+
+# 🧬 Contribution Snake (Cyberpunk)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 🌀 Cyber Badge Wall
+<p align="center">
+  <img src="https://img.shields.io/badge/SonarQube-Code%20Quality-4E9F3D?style=for-the-badge&logo=sonarqube&logoColor=white">
+  <img src="https://img.shields.io/badge/DevOps-CI%2FCD-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white">
+  <img src="https://img.shields.io/badge/UML-Diagrams-8A2BE2?style=for-the-badge">
+</p>
+
+---
+
+# 📫 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/aya-elouahabi-b9a721328">
+    <img src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Itsayael9&style=for-the-badge&color=8A2BE2">
+</p>
+
