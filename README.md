@@ -36,15 +36,7 @@
 
 ---
 
-## 📊 GitHub Overview  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Itsayael9/Itsayael9/main/icons/repos.svg" width="150">
-  <img src="https://raw.githubusercontent.com/Itsayael9/Itsayael9/main/icons/followers.svg" width="150">
-  <img src="https://raw.githubusercontent.com/Itsayael9/Itsayael9/main/icons/stars.svg" width="150">
-</p>
 
-
----
 
 # 🧬 Contribution Snake 
 <p align="center">
