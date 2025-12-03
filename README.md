@@ -36,17 +36,11 @@
 
 ---
 
-# 🔮 Cyber GitHub Stats 
+## 📊 GitHub Overview  
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Itsayael9&show_icons=true&theme=tokyonight&hide=issues" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsayael9&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# ⚡ Activity Streak 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Itsayael9&theme=tokyonight_duo" />
+  <img src="https://raw.githubusercontent.com/Itsayael9/Itsayael9/main/icons/repos.svg" width="150">
+  <img src="https://raw.githubusercontent.com/Itsayael9/Itsayael9/main/icons/followers.svg" width="150">
+  <img src="https://raw.githubusercontent.com/Itsayael9/Itsayael9/main/icons/stars.svg" width="150">
 </p>
 
 
