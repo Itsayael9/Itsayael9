@@ -36,23 +36,23 @@
 
 ---
 
-# 🔮 Cyber GitHub Stats (NEW WORKING VERSION)
-
+# 🔮 Cyber GitHub Stats 
 <p align="center">
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Itsayael9&show_icons=true&theme=tokyonight&hide=issues" />
-  <img height="180" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Itsayael9&layout=compact&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Itsayael9&show_icons=true&theme=tokyonight&hide=issues" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsayael9&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-# ⚡ Activity Streak (Neon Edition)
+# ⚡ Activity Streak 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Itsayael9&theme=tokyonight_duo&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Itsayael9&theme=tokyonight_duo" />
 </p>
+
 
 ---
 
-# 🧬 Contribution Snake (Cyberpunk)
+# 🧬 Contribution Snake 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
